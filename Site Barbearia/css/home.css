@@ -102,3 +102,16 @@
 	float: left;
 	margin: 0 20px 20px 0;
 }
+
+@media screen and (max-width: 480px) {
+	.caixa, .principal, .conteudo-beneficios, 
+	.mapa-conteudo, .video{
+		width: auto;
+	}
+
+	.lista-beneficios, .imagem-beneficos {
+		width: 100%;
+	}
+}
+	
+
