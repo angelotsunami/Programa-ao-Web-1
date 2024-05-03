@@ -107,11 +107,11 @@
 	.caixa, .principal, .conteudo-beneficios, 
 	.mapa-conteudo, .video{
 		width: auto;
-	}
+}
 
 	.lista-beneficios, .imagem-beneficos {
 		width: 100%;
-	}
+}
 }
 	
 
